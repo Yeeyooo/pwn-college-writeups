@@ -1,0 +1,3 @@
+nc -v 127.0.0.1 80
+Then use:
+GET /<specific value> HTTP/1.0

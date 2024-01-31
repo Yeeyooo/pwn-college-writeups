@@ -1,0 +1,4 @@
+curl -d '{"a":"ca971d533e2243f806f01957b455846f"}' -H "Content-Type: application/json" -X POST 127.0.0.1
+
+Notice that 'application/x-www-form-urlencoded' is the default format, so if we want to include
+json format data, we have to specify 'Content-Type: application/json' explicitly using -H option.

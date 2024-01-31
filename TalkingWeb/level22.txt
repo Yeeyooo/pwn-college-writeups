@@ -1,0 +1,3 @@
+curl -d "a=0f495d8b34e07815d14e6d668a5a929c&b=c141d867%20b665248b%2600cb6bf9%2356a799c2" -X POST 127.0.0.1
+
+Explanation: Same as level 19, but now to have to include multiple form data fields.

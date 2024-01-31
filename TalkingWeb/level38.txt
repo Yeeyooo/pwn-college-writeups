@@ -1,0 +1,2 @@
+Use nc to connect to localhost four times.
+Each time we send a request, we need to include the cookie from previous response.

@@ -1,0 +1,4 @@
+nc -v 127.0.0.1 80
+
+The use:
+GET /flag?a=<specific value> HTTP/1.0

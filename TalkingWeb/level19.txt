@@ -1,0 +1,4 @@
+curl -d "a=37664447395ce580ea16de7a7c3bf80b" -X POST 127.0.0.1
+
+Explanation: use -d option to send the specified data in a POST request to the HTTP server
+     and use -X option to specify the request method to use.

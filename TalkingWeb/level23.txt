@@ -1,0 +1,9 @@
+nc -v 127.0.0.1 80
+
+Then use:
+
+POST /flag HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 78
+
+a=0e4b45a0a9e92619a9e36c27045bc6cc&b=e5a327d9%203b0bf6a8%26b9fd7acc%23476fc2e8

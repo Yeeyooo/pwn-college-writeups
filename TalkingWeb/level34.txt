@@ -1,0 +1,2 @@
+curl 127.0.0.1 -i -b "name=value"
+The curl -i 127.0.0.1 -b "cookie=<cookie value we get>"

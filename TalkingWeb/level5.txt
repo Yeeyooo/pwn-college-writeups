@@ -1,0 +1,5 @@
+netcat -v 127.0.0.1 80
+
+Then:
+GET /flag HTTP/1.0
+Host: specific value

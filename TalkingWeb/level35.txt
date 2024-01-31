@@ -1,0 +1,4 @@
+GET /flag HTTP/1.0
+
+GET /flag HTTP/1.0
+Cookie: <cookie value we get>

@@ -1,0 +1,8 @@
+nc -v 127.0.0.1 80
+
+Then use:
+POST /flag HTTP/1.0
+Content-Type: application/json
+Content-Length: 40
+
+{"a":"2be7d1437841e75d53abce9e6ee688f0"}

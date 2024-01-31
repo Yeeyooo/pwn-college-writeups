@@ -1,0 +1,6 @@
+command: curl -L 127.0.0.1:80
+
+Use the -L option to tell curll to follow redirects.
+When following redirects is enabled, curl follows up to 30 redirects by default.
+There is a maximum limit mostly to avoid the risk of getting caught in endless loops.
+If 30 is not sufficient, we can change the maximum number of redirects to follow with the --max-redirs option.

@@ -1,0 +1,4 @@
+nc -v 127.0.0.1 80
+
+Then use:
+GET /flag?a=cd850a299b1988558aa838e24ff33dfa&b=2996aa77%2005099ca4%26a98b0fa8%237d78d3a4 HTTP/1.0

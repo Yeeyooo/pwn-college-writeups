@@ -1,0 +1,2 @@
+Use -c/--cookie-jar option to specify to which file we want curl to write all cookies after a completed operation.
+curl 127.0.0.1:80 -c <filename> -L

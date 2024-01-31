@@ -1,0 +1,3 @@
+first time we use: nc -v 127.0.0.1 80,
+then we get a URL, so the second time we use nc -v /URL 80.
+That's it!
