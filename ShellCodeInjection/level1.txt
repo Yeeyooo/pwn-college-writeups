@@ -1,0 +1,3 @@
+gcc -nostdlib -static level1.s -o level1-elf
+objcopy --dump-section .text=level1-raw level1-elf
+cat level1-raw | /challenge/babyshell_level1
